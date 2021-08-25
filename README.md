@@ -1,1 +1,1 @@
-# mediasMoveis
+# mediasMoveis simples no Python
